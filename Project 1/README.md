@@ -48,4 +48,4 @@ python trilocate.py
 
 ## Video Demonstration
 
-Link
+[Video demo link](https://www.youtube.com/watch?v=bdBh8goW8VM&feature=youtu.be)
