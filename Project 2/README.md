@@ -39,4 +39,4 @@ Using the menu options, the user may both encode and decode messages using diffe
 
 ## Video Demonstration
 
-[Video demo link]()
+[Video demo link](https://youtu.be/-eh4hX3S47M)
