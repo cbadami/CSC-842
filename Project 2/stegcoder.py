@@ -140,7 +140,7 @@ def decode():
         print("Are you sure this image was encoded with this program? Try again...\n")
         return
 
-    #locate and extract message encoded by this program
+    #Locate and extract message encoded by this program
     f = open(fName, 'rb')
     f.read(lastByte - off)
     s = f.read(2 * int(k) - 1)
@@ -158,7 +158,7 @@ def decode():
 
 
 
-#main program
+#Main program
 print("Welcome to Stegcoder!\n")
 choice = menu()
 
