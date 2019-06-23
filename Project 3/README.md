@@ -39,4 +39,4 @@ Using the menu options, the user may generate new passwords, and/or retrieve pas
 
 ## Video Demonstration
 
-[Video demo link]()
+[Video demo link](https://youtu.be/8sTmECOtvjI)
