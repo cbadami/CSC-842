@@ -12,7 +12,7 @@ First, download the script (stegcoder.py) into the directory of your choice on y
 
 In order to make use of the program, you will need at least one jpeg file to play with. This file should be in the same directory as stegcoder.py and should have either the .jpg or .jpeg extension.
 
-The jpeg file used to test this program is in this repository and is located [here]().
+The jpeg file used to test this program is in this repository and is located [here](https://github.com/cbadami/CSC-842/blob/master/Project%202/tiger.jpg).
 
 Once the prerequisites above are satisfied, all you have to do is run the script without arguments:
 ```
