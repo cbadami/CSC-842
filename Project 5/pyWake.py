@@ -15,7 +15,7 @@ import win32com.client as win32
 
 #Create and send simple email.
 
-mail = win32.Dispatch('outlook.application').CreatItem(0)
+mail = win32.Dispatch('outlook.application').CreateItem(0)
 mail.To = 'recipient@email.com' #Replace with actual recipient address
 mail.Subject = 'PyWake Trigger'
 mail.Body = 'Your workstation is awake!'
