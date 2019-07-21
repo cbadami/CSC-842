@@ -47,4 +47,4 @@ Initially, you may want to Run the task manually to make sure an email is being 
 
 ## Video Demonstration
 
-[Video demo link]
+[Video demo link](https://youtu.be/N3L1mr0fzps)
